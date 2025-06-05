@@ -51972,7 +51972,7 @@ s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.yi.prototype={
 R(a){var s=A.a3t(null,A.a8S(B.Y,B.v),"Poppins",!0)
-return new A.p5(A.az(["/",new A.Ok(),"/resume",new A.Ol()],t.N,t.hw),"/resume","My Portfolio",s,!1,null)}}
+return new A.p5(A.az(["/",new A.Ok(),"/resume",new A.Ol()],t.N,t.hw),"/","My Portfolio",s,!1,null)}}
 A.Ok.prototype={
 $1(a){return new A.ly(null)},
 $S:330}
